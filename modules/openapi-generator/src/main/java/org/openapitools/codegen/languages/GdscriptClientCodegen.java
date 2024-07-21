@@ -25,7 +25,7 @@ public class GdscriptClientCodegen extends DefaultCodegen implements CodegenConf
     public static final String CORE_NAME_SUFFIX_VALUE = "";
     // Affixes added to reserved words ; do include the _ for snake_case.
     public static final String ANTICOLLISION_PREFIX = "anticollisionPrefix";
-    public static final String ANTICOLLISION_PREFIX_VALUE = "some_";
+    public static final String ANTICOLLISION_PREFIX_VALUE = "";
     public static final String ANTICOLLISION_SUFFIX = "anticollisionSuffix";
     public static final String ANTICOLLISION_SUFFIX_VALUE = "";
 
